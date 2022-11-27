@@ -1,0 +1,143 @@
+Jim's Movie Manager
+1	Add New Movie
+2	Print movies released in year
+3	Print random list of movies
+4	Delete a movie
+5	Exit
+
+Enter an option: 1
+
+Enter movie title: movie 1
+Enter duration: 112
+Enter year: 2020
+Added movie to database.
+
+Jim's Movie Manager
+1	Add New Movie
+2	Print movies released in year
+3	Print random list of movies
+4	Delete a movie
+5	Exit
+
+Enter an option: 2
+
+Enter in year: 2017
+
+Movie List
+Duration	Year	Title
+141		2017	Wonder Woman
+140		2017	War for the Planet of the Apes
+129		2017	Pirates of the Caribbean: Dead Men Tell No Tales
+89		2017	Captain Underpants: The First Epic Movie
+110		2017	The Circle
+122		2017	Alien: Covenant
+107		2017	Ghost in the Shell
+123		2017	What Happened to Monday
+90		2017	Wish Upon
+137		2017	Logan
+89		2017	47 Meters Down
+95		2017	The Dark Tower
+122		2017	John Wick: Chapter 2
+136		2017	The Fate of the Furious
+87		2017	Security
+126		2017	King Arthur: Legend of the Sword
+111		2017	Wind River
+149		2017	Transformers: The Last Knight
+98		2017	Before I Fall
+122		2017	Girls Trip
+99		2017	0.0986111111111111
+104		2017	Get Out
+96		2017	Despicable Me 3
+103		2017	Life
+93		2017	The Beguiled
+116		2017	Baywatch
+110		2017	The Mummy
+86		2017	The Emoji Movie
+93		2017	Rescue Under Fire
+107		2017	Dunkirk
+88		2017	The House
+118		2017	Kong: Skull Island
+118		2017	Fifty Shades Darker
+92		2017	The Saint
+91		2017	Diary of a Wimpy Kid: The Long Haul
+110		2017	Colossal
+89		2017	Sleight
+105		2017	The Book of Henry
+102		2017	Rings
+92		2017	A Ghost Story
+101		2017	Rough Night
+93		2017	Overdrive
+120		2017	The Big Sick
+124		2017	Power Rangers
+91		2017	Fist Fight
+85		2017	Amityville: The Awakening
+91		2017	It Comes at Night
+89		2017	S.W.A.T.: Under Siege
+95		2017	Kidnap
+93		2017	Black Butterfly
+96		2017	The Bye Bye Man
+109		2017	Cars 3
+94		2017	Once Upon a Time in Venice
+148		2017	Brimstone
+117		2017	Their Finest
+107		2017	xXx: Return of Xander Cage
+117		2017	T2 Trainspotting
+130		2017	Kung Fu Yoga
+84		2017	Teen Titans: The Judas Contract
+104		2017	The Lego Batman Movie
+89		2017	Smurfs: The Lost Village
+
+Total duration: 6512 minutes
+
+
+Jim's Movie Manager
+1	Add New Movie
+2	Print movies released in year
+3	Print random list of movies
+4	Delete a movie
+5	Exit
+
+Enter an option: 3
+
+Enter number of movies: 2
+
+Movie List
+Duration	Year	Title
+201		2003	The Lord of the Rings: The Return of the King
+100		2015	Ricki and the Flash
+
+Total duration: 301 minutes
+
+
+Jim's Movie Manager
+1	Add New Movie
+2	Print movies released in year
+3	Print random list of movies
+4	Delete a movie
+5	Exit
+
+Enter an option: 4
+
+Enter the movie ID thata you want to delete: 543
+
+Movie 543 is deleted.
+
+Jim's Movie Manager
+1	Add New Movie
+2	Print movies released in year
+3	Print random list of movies
+4	Delete a movie
+5	Exit
+
+Enter an option: 5
+
+Goodbye!
+
+Jim's Movie Manager
+1	Add New Movie
+2	Print movies released in year
+3	Print random list of movies
+4	Delete a movie
+5	Exit
+
+Enter an option: 
